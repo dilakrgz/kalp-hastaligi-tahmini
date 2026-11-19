@@ -2,7 +2,7 @@
 
 Hastaların yaş, kan basıncı, EKG ölçümleri gibi 11 özelliğinden yola çıkarak kalp hastalığı olup olmadığını tahmin eden bir ikili sınıflandırma çalışması. Amaç sadece yüksek doğruluk almak değil; veriyi anlamak, hataların türünü incelemek ve modelin neye bakarak karar verdiğini yorumlamak.
 
-📓 **Kaggle notebook:** [buraya notebook linkini ekle]
+📓 **Kaggle notebook:** (https://www.kaggle.com/code/dilanurkaragz/heart-failure-prediction)
 
 ## Veri Seti
 
